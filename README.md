@@ -129,7 +129,8 @@ Todos los errores son devueltos en el formato JSON:
 
 ## Diagrama de la Solución
 
-(Agrega aquí un enlace o una imagen del diagrama de la solución si tienes uno)
+![Diagrama de uso](https://github.com/user-attachments/assets/6bb72899-67fa-40f3-9089-89680a5a32bf)
+
 
 ## Autor
 
