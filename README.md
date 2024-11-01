@@ -130,8 +130,3 @@ Todos los errores son devueltos en el formato JSON:
 ## Diagrama de la Solución
 
 ![Diagrama de uso](https://github.com/user-attachments/assets/6bb72899-67fa-40f3-9089-89680a5a32bf)
-
-
-## Autor
-
-- **Tu Nombre** - [tu-usuario en GitHub](https://github.com/tu-usuario)
